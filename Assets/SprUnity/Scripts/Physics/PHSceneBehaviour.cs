@@ -207,7 +207,7 @@ public class PHSceneBehaviour : SprBehaviour {
 
     // -- Sprオブジェクトの構築を行う
     public override ObjectIf Build() {
-        SEH_Exception.init();
+        //SEH_Exception.init();
 
         PHSceneIf phScene;
         if (enableDebugWindow) {

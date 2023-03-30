@@ -4,4 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RigidBody/RigidBody.unity
+    guid: dfaaef955aae9e54c874f27b244d95c5
+  - enabled: 0
+    path: Assets/Joint/Joint.unity
+    guid: ebcd7aae2ddacca469dd4795bd203ad0
+  m_configObjects: {}
